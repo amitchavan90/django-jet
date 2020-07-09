@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: django-jet
-Version: 1.0.8
+Version: 1.0.9
 Summary: Modern template for Django admin interface with improved functionality
 Home-page: https://github.com/geex-arts/django-jet
 Author: Denis Kildishev
